@@ -1,4 +1,4 @@
-:point_right: PUT YOUR CI BADGE HERE :alembic:
+:point_right: PUT YOUR CI BADGE HERE :alembic: :japanese_ogre:
 
 # EMS-lab3 Maintainability
 
